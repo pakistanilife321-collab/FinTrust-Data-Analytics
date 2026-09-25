@@ -9,8 +9,7 @@ This repository contains the **Data Preparation & Quality Assessment (Part A)** 
 ## 📁 Repository Structure & Deliverables
 - **`FinTrust_Data_Quality_and_Cleaning_Workbook.xlsx`**: Cleaned Excel workbook with date-time formatting, XLOOKUP customer attribute joins, and custom compliance/outlier audit flags.
 - **`FinTrust_Week2_SQL_Analysis.sql`**: Production-ready PostgreSQL query script addressing 8 core business questions.
-- **`FinTrust_Part_A_Data_Quality_Assessment_Report.docx`**: Word documentation detailing the 10 data quality dimensions and Excel cleaning steps.
-- **`FinTrust_Part_B_SQL_Business_Analysis_Short.docx`**: Executive summary document linking SQL queries, result summaries, and business interpretations.
+
 
 ---
 
@@ -37,7 +36,3 @@ This repository contains the **Data Preparation & Quality Assessment (Part A)** 
 
 ---
 
-## 🚀 How to Run the SQL Script
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/FinTrust-Data-Analytics.git](https://github.com/YOUR_USERNAME/FinTrust-Data-Analytics.git)
