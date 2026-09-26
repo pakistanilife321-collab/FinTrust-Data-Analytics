@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This repository contains the complete end-to-end data analytics lifecycle for **FinTrust Digital Bank**, completed as part of the AnalystLab Africa Experience Lab Internship Programme. 
 
-The project spans **Data Preparation & Quality Assessment (Part A)**, **SQL Business Intelligence Analysis (Part B)**, **Interactive Power BI Management Dashboard Design (Part B)**, and **Python Exploratory Data Analysis (Part C)** to evaluate customer behavior, payment channel performance, operational reliability, and compliance risks.
+The project spans **Data Preparation & Quality Assessment (Part A)**, **SQL Business Intelligence Analysis (Part B)**, **Python Exploratory Data Analysis (Part C)** and **Interactive Power BI Management Dashboard Design (Part D)**  to evaluate customer behavior, payment channel performance, operational reliability, and compliance risks.
 
 ---
 
@@ -11,7 +11,6 @@ The project spans **Data Preparation & Quality Assessment (Part A)**, **SQL Busi
 - **`FinTrust_Data_Quality_and_Cleaning_Workbook.xlsx`**: Cleaned Excel workbook containing date-time standardization (ISO 8601), XLOOKUP customer attribute joins, and custom compliance/outlier audit flags.
 - **`FinTrust_Part_A_Data_Quality_Assessment_Report.docx`**: Word documentation detailing the 10 data quality dimensions and Excel data cleaning methodology.
 - **`FinTrust_Week2_SQL_Analysis.sql`**: Production-ready PostgreSQL query script addressing 8 core business analytics questions.
-- **`FinTrust_Part_B_SQL_Business_Analysis_Short.docx`**: Executive summary document linking SQL business queries, result summaries, and strategic interpretations.
 - **`FinTrust_Week2_Analytics_Dashboard.pbix`**: Interactive Power BI management dashboard featuring 6 core KPIs, 6 dynamic visual layouts, and multi-dimensional slicers.
 - **`FinTrust_Week2_Data_Analysis.ipynb`**: Comprehensive Python exploratory data analysis (EDA) Jupyter Notebook featuring 5 core business visualizations and data insights.
 
